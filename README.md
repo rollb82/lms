@@ -1,4 +1,4 @@
-# This is build from a React Project and I can't show the source files due to a non-compete
+# This is build from a React Project and I can't share the source
 
 This is a sample of what was created from a React project for an lms system.
 
